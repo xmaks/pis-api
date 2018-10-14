@@ -1,1 +1,1 @@
-api: graphql
+web: graphql
